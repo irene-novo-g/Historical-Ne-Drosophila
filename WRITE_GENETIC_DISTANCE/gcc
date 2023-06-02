@@ -1,0 +1,2 @@
+
+time gcc -o WRITE_GEN_DIST -w -O -static WRITE_GEN_DIST.c genlib.c -lm
